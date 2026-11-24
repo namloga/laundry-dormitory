@@ -588,3 +588,5 @@ UML Component Diagram описывает ту же архитектуру, чт�
 ## 8. Список источников
 1. [LibreBooking: README проекта](https://github.com/LibreBooking/librebooking).
 2. [LibreBooking: журнал изменений](https://librebooking.readthedocs.io/en/latest/changelog.html).
+3. Отчёт команды по практической работе № 2 «Разработка концепции информационной системы».
+4. Отчёт команды по практической работе № 3 «Разработка модели бизнес-процессов с учётом внедрения информационной системы».
